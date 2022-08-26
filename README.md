@@ -1,6 +1,6 @@
 ## Live Demo
 
-Visit <the-job-board.web.app> to see the app in action.
+Visit <https://the-job-board.web.app/> to see the app in action.
 
 ## Contribution
 
