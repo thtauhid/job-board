@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+body {
+  margin: 0;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.jumbo-title {
+  font-weight: bold;
+  font-size: 3.5rem;
+}
+
+.lead {
+  max-width: 55ch;
+  margin: auto;
+}
+
+.search-bar {
+  padding: 0 10px;
+}
+
+button {
+  width: 150px;
+}
+
+.single-job-posting-card {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  margin: 10px;
+}
+
+.single-job-posting-card-image-area img {
+  border-radius: 100%;
+  padding: 15px;
+}
+
+.single-job-posting-card-text-area {
+  padding: 15px;
+}
+
+.single-job-posting-card-text-area h4 {
+  font-size: 1rem;
+}
+
+.single-job-posting-card-text-area h3 {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.login-button {
+  width: 250px;
+}
+
+.job-posting-text {
+  max-width: 75ch;
+}
+
+.tag-link {
+  text-decoration: none;
+}
+
+.tag-link:hover {
+  text-decoration: underline;
+}
+
+.tag-link .bg-info {
+  white-space: nowrap;
+}
+/*# sourceMappingURL=index.css.map */
